@@ -40,4 +40,12 @@ vector est un array dynamique dont la taille n'est pas static on peut lui ajoute
     }
 ```
 
-
+## STRING
+un string a une chaine de characteres, il a un fonctionnement similaire a vector, mais lui est static
+```cpp
+    #include <string>
+    std::string hello{"hello world"};
+    std::cout<<hello<<"\n";
+    std::cout<<"nombre de charactere"<<hello.size()<<"\n";
+    std::cout<<hello[2]<<"\n";
+```
