@@ -11,20 +11,20 @@ nombre entier
 ## floating
 
 nombre a virgule
-- float
-- double
-- long double
+- float = 4bytes
+- double = 8bytes
+- long double = 12 ou 16 bytes
 
 ## character
 
 representation de lettre ou chiffres
-- char
-- string
+- char = 1 bytes
+- string = taille variable
 
 ## boolean
 
 nombre Vrai ou Faux (1/0 ou true/false)
-- bool
+- bool = 1 bytes
 
 ## UNSIGNED 
 
@@ -33,3 +33,7 @@ definir des nombre uniquement positifs
 - unsigned int
 - unsigned long
 - unsigned long long
+- unsigned float
+- unsigned double
+- unsigned long double
+- unsigned char
