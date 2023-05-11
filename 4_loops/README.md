@@ -2,7 +2,7 @@
 
 permettent d'executer plusieur fois un meme bout de code  
 
-# for
+## for
 permet de repeter un bout de code un certains nombre de fois
 - la structure
 ```cpp
@@ -19,7 +19,7 @@ permet de repeter un bout de code un certains nombre de fois
     }
 ```
 
-# while (tanque)
+## while (tanque)
 
 - la structure
 ```cpp
@@ -40,7 +40,7 @@ repete le bout de code tanque la condition est correct
 ```
 
 
-# do while
+## do while
 fonction de la meme facons que while mais ici il execute le code au moince une fois que le condition soit vrai ou pas
 - structure
 ```cpp
