@@ -1,4 +1,15 @@
 # VARIABLES
+une variable est comme un conteneur permettant de contenir des informations tels que des chiffres ou characters
+chaque variable a une taille definit qui nous permet de savoir la quantite d'information qu'il peut stocker
+
+# creation
+differentes facons de creer une variable
+type nom_variable{valeur};
+type nom_variable = valeur;
+type nom_variable = {valeur};
+
+## NB
+1 bytes = 8 bits = 2^8 = (-123, 124)
 
 ## Integer
 
