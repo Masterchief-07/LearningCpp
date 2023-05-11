@@ -1,5 +1,6 @@
 #perso
-build/
+# !build/.gitkeep
+# build/
 
 # Prerequisites
 *.d
