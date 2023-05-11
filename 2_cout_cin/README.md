@@ -2,7 +2,7 @@
 # lib iostream
 # cout
 permet d'afficher du text dans la console
-``` cpp
+```c_cpp
 std::cout<<"hello world"<<std::endl;
 ```
 
